@@ -43,4 +43,8 @@ A venture that i had worked for before, approached me to help them build their E
 
 10. Then their is one of the Employee working in the Venture, that was single when i was creating the Database and she confronted me to UPDATE her title into married in the Database. Since she has gotton married now.
 
-11. Then the secretary of the Venture want to prepare a circular to all the Employee working in the Venture and she approached me to help her with all the Employee's names writing in a normal format.     
+11. Then the secretary of the Venture want to prepare a circular to all the Employee working in the Venture and she approached me to help her with all the Employee's names writing in a normal format.
+
+
+
+### Now,grab a cup of Cuffe and let's EXPLORE 😄
