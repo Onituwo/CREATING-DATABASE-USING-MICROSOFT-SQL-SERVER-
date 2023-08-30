@@ -19,6 +19,8 @@ A venture that i had worked for before, approached me to help them build their E
 - CONCAT
 - UPPER
 - LOWER
+
+  ### In the Quary:
   
 
 1. In the first Quary, I use the clause (CREATE) to create a Database named JADE_EMPLOYEE_DATA.
