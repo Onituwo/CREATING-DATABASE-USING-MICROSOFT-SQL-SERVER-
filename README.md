@@ -49,4 +49,4 @@ A venture that i had working for, approached me to help them build their Employe
 
 10. Then the secretary of the Venture want to prepare a circular to all the Employee working in the Venture and she approached me to help her with all the Employee's names writing in a normal format.
 ##
-### Now,grab a cup of Coffe and let's []()EXPLORE 😄
+### Now,grab a cup of Coffe and let's ![](SQLQuery2DOCUMENTATION.sql)EXPLORE 😄
